@@ -1,6 +1,6 @@
 # Proyecto: **Dojo Dodge**
 
-## Version: **0**
+## Version: **1**
 
 - característica 1
 - característica 2
